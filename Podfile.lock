@@ -1,0 +1,13 @@
+PODS:
+  - MBFaker (0.1.2)
+  - RZCellSizeManager (1.1)
+
+DEPENDENCIES:
+  - MBFaker (~> 0.1.2)
+  - RZCellSizeManager (~> 1.1.0)
+
+SPEC CHECKSUMS:
+  MBFaker: cf53384c68e5d59b408b66f7487447be580e1b05
+  RZCellSizeManager: 703050a040cc149fd49354406c01ff0b27e88538
+
+COCOAPODS: 0.32.1

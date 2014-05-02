@@ -1,5 +1,5 @@
 //
-//  JDViewController.h
+//  JDCollectionViewCell.h
 //  CollectionViewCellSizeDemo
 //
 //  Created by Jan Dillmann on 02.05.14.
@@ -9,6 +9,8 @@
 @import UIKit;
 
 
-@interface JDViewController : UICollectionViewController
+@interface JDCollectionViewCell : UICollectionViewCell
+
+@property (weak, nonatomic) IBOutlet UILabel *textLabel;
 
 @end
